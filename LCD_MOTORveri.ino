@@ -1,4 +1,4 @@
-
+//https://www.robolinkmarket.com/096-inch-i2c-oled-ekran-128x64-beyaz-white?gclid=CjwKCAjw_-D3BRBIEiwAjVMy7Pv27eCLp2rc9fNr70s3dMJZFVJIkkiB6cA0GAK3cx5WfqbV-UXGcRoC2iAQAvD_BwE
 #include "U8glib.h"
 U8GLIB_SSD1306_128X64 u8g(U8G_I2C_OPT_NONE | U8G_I2C_OPT_DEV_0);
 char bufferX [20];
